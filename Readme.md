@@ -17,7 +17,7 @@
 <img src="website_images/AboutPage.png" width="900">
 
 
-#### Projects Page
+#### Skills Page
 <img src="website_images/Skills.png" width="900">
   
 
